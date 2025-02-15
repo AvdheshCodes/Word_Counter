@@ -2,6 +2,9 @@ Word Counter
 
 Overview
 
+![image](https://github.com/user-attachments/assets/b48d73f8-3c97-49bd-9c6d-bd2bd918e92b)
+
+
 Word Counter is a simple web-based tool that counts the number of characters in a given text input. This lightweight and efficient application is useful for writers, students, and developers who need to track character count in real-time.
 
 Features
@@ -37,7 +40,7 @@ CSS for styling the interface.
 
 JavaScript for dynamic character counting functionality.
 
-Code Structure
+Code Structure : 
 
 index.html: Main HTML file containing the structure of the word counter.
 
@@ -49,11 +52,8 @@ Contributing
 
 Feel free to fork the repository and contribute by submitting pull requests.
 
-License
 
-This project is licensed under the MIT License.
 
 Contact
 
-For any inquiries or issues, contact your-email@example.com.
-
+For any inquiries or issues, contact your-avdhesh.ghansela@gmail.com
