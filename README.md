@@ -56,4 +56,4 @@ Feel free to fork the repository and contribute by submitting pull requests.
 
 Contact
 
-For any inquiries or issues, contact your-avdhesh.ghansela@gmail.com
+For any inquiries or issues, contact avdhesh.ghansela@gmail.com
