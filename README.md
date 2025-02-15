@@ -21,7 +21,7 @@ Responsive design for different screen sizes.
 
 Clone the repository using the following command:
 
-git clone https://github.com/your-username/word-counter.git
+git clone https://github.com/AvdheshCodes/word-counter.git
 cd word-counter
 
 <h2>Usage</h2>
